@@ -1,4 +1,5 @@
 // BINARY SEARCH (of a value in a sorted array)
+// RUNTIME COMPLEXITY O(log n)  (the power of 2 to obtain n)
 
 function binSearch(arr, item) {
   let low = 0; //start of search segment
