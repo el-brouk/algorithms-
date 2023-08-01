@@ -24,7 +24,7 @@ stations["kfive"] = new Set(["ca", "az"]);
 //to store the result:
 const finalStations = new Set();
 
-//.size returns length of a set
+//.size returns length of a set; while is executed untill all states are covered
 while (statesNeeded.size) {
   let bestStation = null;
   let statesCovered = new Set();
