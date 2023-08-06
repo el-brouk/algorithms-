@@ -6,6 +6,7 @@ every left child has a smaller value than its parent
 every right child has a larger value than its parent
 every node can contain from 0 to 2 children. */
 
+//Depth First Search or DFS:
 // INORDER TRAVERSAL (traverses the tree nodes from left, to mid, to right)
 //returns all nodes of BST in ASCENDING ORDER of value 
 
