@@ -1,2 +1,2 @@
-# algorithms-
+# algorithms
 explanation of common algorithms
